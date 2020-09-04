@@ -1,0 +1,6235 @@
+fileFormatVersion: 2
+guid: be02af0b97e818d408368b1573d43e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4144336939780473603
+    second: OVER_0
+  - first:
+      213: 6770838237227127433
+    second: OVER_1
+  - first:
+      213: -5359309608156136879
+    second: OVER_2
+  - first:
+      213: 6153487359124010017
+    second: OVER_3
+  - first:
+      213: -9093294490288183114
+    second: OVER_4
+  - first:
+      213: -3786241845524647298
+    second: OVER_5
+  - first:
+      213: -4286860718499598593
+    second: OVER_6
+  - first:
+      213: 8541929347923994688
+    second: OVER_7
+  - first:
+      213: 9032290931173224636
+    second: OVER_8
+  - first:
+      213: 5555754559527630219
+    second: OVER_9
+  - first:
+      213: -8454015613995801006
+    second: OVER_10
+  - first:
+      213: 3260881885191554278
+    second: OVER_11
+  - first:
+      213: 1303340223617834588
+    second: OVER_12
+  - first:
+      213: 3781622759836885658
+    second: OVER_13
+  - first:
+      213: 1935687057320887680
+    second: OVER_14
+  - first:
+      213: -7845087617164662819
+    second: OVER_15
+  - first:
+      213: -865779284626321197
+    second: OVER_16
+  - first:
+      213: 3732801927083598546
+    second: OVER_17
+  - first:
+      213: 7405399043192338969
+    second: OVER_18
+  - first:
+      213: -437774263018473451
+    second: OVER_19
+  - first:
+      213: -7559129331035801337
+    second: OVER_20
+  - first:
+      213: 1442934900241847752
+    second: OVER_21
+  - first:
+      213: -8532245996641447643
+    second: OVER_22
+  - first:
+      213: -7857156515453801476
+    second: OVER_23
+  - first:
+      213: 4569488033680456784
+    second: OVER_24
+  - first:
+      213: -1259862191265876110
+    second: OVER_25
+  - first:
+      213: -7670295438313831798
+    second: OVER_26
+  - first:
+      213: 4819687468628062732
+    second: OVER_27
+  - first:
+      213: -7951439887923852129
+    second: OVER_28
+  - first:
+      213: 7590655420499798988
+    second: OVER_29
+  - first:
+      213: -100005844509334404
+    second: OVER_30
+  - first:
+      213: -7572160158693273464
+    second: OVER_31
+  - first:
+      213: -2806297249256282357
+    second: OVER_32
+  - first:
+      213: 3834263318553329911
+    second: OVER_33
+  - first:
+      213: -6325754264236597105
+    second: OVER_34
+  - first:
+      213: -6946434471928188182
+    second: OVER_35
+  - first:
+      213: -3251299416190728328
+    second: OVER_36
+  - first:
+      213: -2590856155818364019
+    second: OVER_37
+  - first:
+      213: 5967023393160538058
+    second: OVER_38
+  - first:
+      213: 5149640318076808341
+    second: OVER_39
+  - first:
+      213: -8886806995770107305
+    second: OVER_40
+  - first:
+      213: 6427207077373493030
+    second: OVER_41
+  - first:
+      213: 4277315768272905127
+    second: OVER_42
+  - first:
+      213: 5257936883919807586
+    second: OVER_43
+  - first:
+      213: -2440466594050933283
+    second: OVER_44
+  - first:
+      213: -8629510852310577092
+    second: OVER_45
+  - first:
+      213: -1414727343631535210
+    second: OVER_46
+  - first:
+      213: 2632632856699745327
+    second: OVER_47
+  - first:
+      213: 2475450720195551182
+    second: OVER_48
+  - first:
+      213: -1673442666108090691
+    second: OVER_49
+  - first:
+      213: 378740893834722011
+    second: OVER_50
+  - first:
+      213: -8804071464936954353
+    second: OVER_51
+  - first:
+      213: 2168294402092268021
+    second: OVER_52
+  - first:
+      213: 458733999065752454
+    second: OVER_53
+  - first:
+      213: 7374743295810282882
+    second: OVER_54
+  - first:
+      213: 6780918045250843394
+    second: OVER_55
+  - first:
+      213: 6764826085079468301
+    second: OVER_56
+  - first:
+      213: -8836158688462051498
+    second: OVER_57
+  - first:
+      213: 442518693232743251
+    second: OVER_58
+  - first:
+      213: -3383232659263952184
+    second: OVER_59
+  - first:
+      213: -2225972816889311884
+    second: OVER_60
+  - first:
+      213: 3299880905601146431
+    second: OVER_61
+  - first:
+      213: 3204887752278370687
+    second: OVER_62
+  - first:
+      213: 1846900784098102738
+    second: OVER_63
+  - first:
+      213: 742149664871432899
+    second: OVER_64
+  - first:
+      213: 4991990491753260601
+    second: OVER_65
+  - first:
+      213: 6186959519070137929
+    second: OVER_66
+  - first:
+      213: 3934173472699320251
+    second: OVER_67
+  - first:
+      213: 6810360544150006122
+    second: OVER_68
+  - first:
+      213: -7460138281119873978
+    second: OVER_69
+  - first:
+      213: -7218380272504868394
+    second: OVER_70
+  - first:
+      213: 2370737375352650618
+    second: OVER_71
+  - first:
+      213: -8695591669380653185
+    second: OVER_72
+  - first:
+      213: 242848101985959382
+    second: OVER_73
+  - first:
+      213: -1230699931404021989
+    second: OVER_74
+  - first:
+      213: 1007383169390053886
+    second: OVER_75
+  - first:
+      213: 7691067876385466063
+    second: OVER_76
+  - first:
+      213: -6367711658536676234
+    second: OVER_77
+  - first:
+      213: -4963003654111081635
+    second: OVER_78
+  - first:
+      213: 907522777369745387
+    second: OVER_79
+  - first:
+      213: 3655563233509802152
+    second: OVER_80
+  - first:
+      213: -1633219605097346795
+    second: OVER_81
+  - first:
+      213: -6260058480149058055
+    second: OVER_82
+  - first:
+      213: -7467487075123976114
+    second: OVER_83
+  - first:
+      213: 1224443671006129841
+    second: OVER_84
+  - first:
+      213: -3014321846870204332
+    second: OVER_85
+  - first:
+      213: -8850379690639395564
+    second: OVER_86
+  - first:
+      213: 1485361044334153455
+    second: OVER_87
+  - first:
+      213: 3305695772963206783
+    second: OVER_88
+  - first:
+      213: -3743880874245494186
+    second: OVER_89
+  - first:
+      213: -946335376775223609
+    second: OVER_90
+  - first:
+      213: 2778922279251779083
+    second: OVER_91
+  - first:
+      213: 218007043775559012
+    second: OVER_92
+  - first:
+      213: -5343575697152874298
+    second: OVER_93
+  - first:
+      213: 1671098207102255062
+    second: OVER_94
+  - first:
+      213: 1394680452956378213
+    second: OVER_95
+  - first:
+      213: 8014204176642330591
+    second: OVER_96
+  - first:
+      213: -2683753078756476078
+    second: OVER_97
+  - first:
+      213: 8638118522954021074
+    second: OVER_98
+  - first:
+      213: -4227709495057118800
+    second: OVER_99
+  - first:
+      213: -4611160410425871535
+    second: OVER_100
+  - first:
+      213: -7910076497565188536
+    second: OVER_101
+  - first:
+      213: 3006611807103229125
+    second: OVER_102
+  - first:
+      213: 2492776272005156866
+    second: OVER_103
+  - first:
+      213: 2301481509233909911
+    second: OVER_104
+  - first:
+      213: 1760712295572997157
+    second: OVER_105
+  - first:
+      213: 5992237909467232899
+    second: OVER_106
+  - first:
+      213: -1672466102017087959
+    second: OVER_107
+  - first:
+      213: 3546610496053488455
+    second: OVER_108
+  - first:
+      213: 6924457920764357887
+    second: OVER_109
+  - first:
+      213: 3573850108218900760
+    second: OVER_110
+  - first:
+      213: 1738649081220058343
+    second: OVER_111
+  - first:
+      213: -6334091973908155710
+    second: OVER_112
+  - first:
+      213: -1196776226263538755
+    second: OVER_113
+  - first:
+      213: 5975252905942913133
+    second: OVER_114
+  - first:
+      213: 907452818890183154
+    second: OVER_115
+  - first:
+      213: -6004387471239998541
+    second: OVER_116
+  - first:
+      213: -5413974541649410658
+    second: OVER_117
+  - first:
+      213: 5201735547952759419
+    second: OVER_118
+  - first:
+      213: 9157727846441117677
+    second: OVER_119
+  - first:
+      213: -720458268249900960
+    second: OVER_120
+  - first:
+      213: -910345163436627320
+    second: OVER_121
+  - first:
+      213: 3778218382616239982
+    second: OVER_122
+  - first:
+      213: 3199561747941257372
+    second: OVER_123
+  - first:
+      213: -7545366705717429960
+    second: OVER_124
+  - first:
+      213: -6428148609496672515
+    second: OVER_125
+  - first:
+      213: 7241381916657455688
+    second: OVER_126
+  - first:
+      213: 6393719265063903659
+    second: OVER_127
+  - first:
+      213: 4619451180140980262
+    second: OVER_128
+  - first:
+      213: -1069985354042364279
+    second: OVER_129
+  - first:
+      213: 1775635570027648848
+    second: OVER_130
+  - first:
+      213: 6484451054810665122
+    second: OVER_131
+  - first:
+      213: -130748340195463100
+    second: OVER_132
+  - first:
+      213: 7855442643116426229
+    second: OVER_133
+  - first:
+      213: 8325363194198235328
+    second: OVER_134
+  - first:
+      213: -7855967054403067173
+    second: OVER_135
+  - first:
+      213: -4143457334890015172
+    second: OVER_136
+  - first:
+      213: -800011864379919276
+    second: OVER_137
+  - first:
+      213: -7914138944375319263
+    second: OVER_138
+  - first:
+      213: 7629319952317951496
+    second: OVER_139
+  - first:
+      213: 1370904287599025674
+    second: OVER_140
+  - first:
+      213: -5075048069293673984
+    second: OVER_141
+  - first:
+      213: 4183764779237105888
+    second: OVER_142
+  - first:
+      213: -5203566274793307992
+    second: OVER_143
+  - first:
+      213: -6637766620399330348
+    second: OVER_144
+  - first:
+      213: -5383848406950138202
+    second: OVER_145
+  - first:
+      213: 1067815991004673517
+    second: OVER_146
+  - first:
+      213: 1238334725484394481
+    second: OVER_147
+  - first:
+      213: -6267559614977224186
+    second: OVER_148
+  - first:
+      213: 8155742815106895963
+    second: OVER_149
+  - first:
+      213: 2169261001814648342
+    second: OVER_150
+  - first:
+      213: -6258503788531078888
+    second: OVER_151
+  - first:
+      213: 1762420935446489165
+    second: OVER_152
+  - first:
+      213: 5464393227892133870
+    second: OVER_153
+  - first:
+      213: -5102726015990463501
+    second: OVER_154
+  - first:
+      213: 3346769755700376395
+    second: OVER_155
+  - first:
+      213: -6599906064786961585
+    second: OVER_156
+  - first:
+      213: 185098951532577182
+    second: OVER_157
+  - first:
+      213: 6325414196356584834
+    second: OVER_158
+  - first:
+      213: 7305915330431995848
+    second: OVER_159
+  - first:
+      213: -2038184631951115673
+    second: OVER_160
+  - first:
+      213: -6573394726696401645
+    second: OVER_161
+  - first:
+      213: 7787609444605774823
+    second: OVER_162
+  - first:
+      213: -8571676673798701594
+    second: OVER_163
+  - first:
+      213: 4030937466972106493
+    second: OVER_164
+  - first:
+      213: 522905588721889918
+    second: OVER_165
+  - first:
+      213: -8822417921169082956
+    second: OVER_166
+  - first:
+      213: -4037566470289097920
+    second: OVER_167
+  - first:
+      213: 1870321690035098763
+    second: OVER_168
+  - first:
+      213: 1331312250347249756
+    second: OVER_169
+  - first:
+      213: 1036564390780207031
+    second: OVER_170
+  - first:
+      213: 2169356645727921906
+    second: OVER_171
+  - first:
+      213: 2252457279988350778
+    second: OVER_172
+  - first:
+      213: 9063235931196886447
+    second: OVER_173
+  - first:
+      213: -4436784644561757338
+    second: OVER_174
+  - first:
+      213: 1648563242670599842
+    second: OVER_175
+  - first:
+      213: 4831387848213346647
+    second: OVER_176
+  - first:
+      213: -2512693694152728424
+    second: OVER_177
+  - first:
+      213: 6619412087062422312
+    second: OVER_178
+  - first:
+      213: 5980556175181983786
+    second: OVER_179
+  - first:
+      213: 1301516398541546151
+    second: OVER_180
+  - first:
+      213: -7791255179395813359
+    second: OVER_181
+  - first:
+      213: 7644442837329410598
+    second: OVER_182
+  - first:
+      213: -1082937402395979320
+    second: OVER_183
+  - first:
+      213: 5261898233526234353
+    second: OVER_184
+  - first:
+      213: -1160920980913395587
+    second: OVER_185
+  - first:
+      213: 6660852972472570944
+    second: OVER_186
+  - first:
+      213: -9006713299068493905
+    second: OVER_187
+  - first:
+      213: 4821993287413325196
+    second: OVER_188
+  - first:
+      213: 4087731019785699059
+    second: OVER_189
+  - first:
+      213: 8323205517822360892
+    second: OVER_190
+  - first:
+      213: -7284784429099391910
+    second: OVER_191
+  - first:
+      213: -833113007120889926
+    second: OVER_192
+  - first:
+      213: -6527728688533104701
+    second: OVER_193
+  - first:
+      213: 7223861408198957332
+    second: OVER_194
+  - first:
+      213: -1326962519627242621
+    second: OVER_195
+  - first:
+      213: 4434558805030073078
+    second: OVER_196
+  - first:
+      213: 7358871864092816867
+    second: OVER_197
+  - first:
+      213: -8036684064643977584
+    second: OVER_198
+  - first:
+      213: 4478769108312794010
+    second: OVER_199
+  - first:
+      213: -4540857909042027460
+    second: OVER_200
+  - first:
+      213: -6684885360114737986
+    second: OVER_201
+  - first:
+      213: -285837166168084929
+    second: OVER_202
+  - first:
+      213: -1496294346855163126
+    second: OVER_203
+  - first:
+      213: -5143101851702837452
+    second: OVER_204
+  - first:
+      213: -6437535268848094521
+    second: OVER_205
+  - first:
+      213: -6094337412227084910
+    second: OVER_206
+  - first:
+      213: 3924150931395499933
+    second: OVER_207
+  - first:
+      213: -5479038344102974771
+    second: OVER_208
+  - first:
+      213: 6656591303040193801
+    second: OVER_209
+  - first:
+      213: -7976456850720296326
+    second: OVER_210
+  - first:
+      213: -6202172111364334832
+    second: OVER_211
+  - first:
+      213: -2826369286201074560
+    second: OVER_212
+  - first:
+      213: -8774215825207103626
+    second: OVER_213
+  - first:
+      213: 4665599045993808685
+    second: OVER_214
+  - first:
+      213: 646261071285691768
+    second: OVER_215
+  - first:
+      213: 4878552131747947345
+    second: OVER_216
+  - first:
+      213: 219308897758116384
+    second: OVER_217
+  - first:
+      213: -1478890128513462074
+    second: OVER_218
+  - first:
+      213: 2517772705788080495
+    second: OVER_219
+  - first:
+      213: -4616439901264599871
+    second: OVER_220
+  - first:
+      213: -1612791312698514679
+    second: OVER_221
+  - first:
+      213: 6831860848568274954
+    second: OVER_222
+  - first:
+      213: 944174449920310292
+    second: OVER_223
+  - first:
+      213: 2921226976108841422
+    second: OVER_224
+  - first:
+      213: -2019164106578587936
+    second: OVER_225
+  - first:
+      213: -3477398091537570479
+    second: OVER_226
+  - first:
+      213: 5025490030519355130
+    second: OVER_227
+  - first:
+      213: -7621948134532582346
+    second: OVER_228
+  - first:
+      213: 4002895939152400245
+    second: OVER_229
+  - first:
+      213: 7713382925363284549
+    second: OVER_230
+  - first:
+      213: -7547510245829611552
+    second: OVER_231
+  - first:
+      213: 6226630516115423435
+    second: OVER_232
+  - first:
+      213: -3097639574609554282
+    second: OVER_233
+  - first:
+      213: -2212911541645026161
+    second: OVER_234
+  - first:
+      213: -5046682604383804806
+    second: OVER_235
+  - first:
+      213: 1874224649043333322
+    second: OVER_236
+  - first:
+      213: 6130337035953298663
+    second: OVER_237
+  - first:
+      213: 3473552149001841334
+    second: OVER_238
+  - first:
+      213: 151275821411695467
+    second: OVER_239
+  - first:
+      213: -6389913927306897385
+    second: OVER_240
+  - first:
+      213: 5852904752440241009
+    second: OVER_241
+  - first:
+      213: 6240326168235706662
+    second: OVER_242
+  - first:
+      213: -1414654597977021375
+    second: OVER_243
+  - first:
+      213: 2320261183308215021
+    second: OVER_244
+  - first:
+      213: -3452790612637201900
+    second: OVER_245
+  - first:
+      213: -5111043951042231982
+    second: OVER_246
+  - first:
+      213: 6732577087884758988
+    second: OVER_247
+  - first:
+      213: 1190835646079068159
+    second: OVER_248
+  - first:
+      213: -974184867284056618
+    second: OVER_249
+  - first:
+      213: 8044661274215826040
+    second: OVER_250
+  - first:
+      213: 8471354213080119034
+    second: OVER_251
+  - first:
+      213: -3116027889274013264
+    second: OVER_252
+  - first:
+      213: -6377080656596308354
+    second: OVER_253
+  - first:
+      213: -3353223458240987590
+    second: OVER_254
+  - first:
+      213: -6118292406999526798
+    second: OVER_255
+  - first:
+      213: -8498046077264915497
+    second: OVER_256
+  - first:
+      213: -4331918695104477993
+    second: OVER_257
+  - first:
+      213: -801087960598390106
+    second: OVER_258
+  - first:
+      213: -6662973004379891688
+    second: OVER_259
+  - first:
+      213: 8989612472559136465
+    second: OVER_260
+  - first:
+      213: -9142460124449747313
+    second: OVER_261
+  - first:
+      213: 8198680602245074322
+    second: OVER_262
+  - first:
+      213: 5632747619366330396
+    second: OVER_263
+  - first:
+      213: 5005508700432273761
+    second: OVER_264
+  - first:
+      213: -546339142469581855
+    second: OVER_265
+  - first:
+      213: -8300833544101916691
+    second: OVER_266
+  - first:
+      213: -6140137087753504170
+    second: OVER_267
+  - first:
+      213: -7409614566513255523
+    second: OVER_268
+  - first:
+      213: 9111526906217821021
+    second: OVER_269
+  - first:
+      213: -6008039898748368185
+    second: OVER_270
+  - first:
+      213: -5944669395192838038
+    second: OVER_271
+  - first:
+      213: 2573086897821874006
+    second: OVER_272
+  - first:
+      213: -4754698895522204350
+    second: OVER_273
+  - first:
+      213: 5737526455881848600
+    second: OVER_274
+  - first:
+      213: -6810481876479230841
+    second: OVER_275
+  - first:
+      213: 6559757688925090558
+    second: OVER_276
+  - first:
+      213: 6921189553765217715
+    second: OVER_277
+  - first:
+      213: -7826298051230319302
+    second: OVER_278
+  - first:
+      213: 897051315461847651
+    second: OVER_279
+  - first:
+      213: -5373121416606619374
+    second: OVER_280
+  - first:
+      213: -4882136881940114797
+    second: OVER_281
+  - first:
+      213: 3260804618287535602
+    second: OVER_282
+  - first:
+      213: -7291093827270500024
+    second: OVER_283
+  - first:
+      213: 730921837325348149
+    second: OVER_284
+  - first:
+      213: -4550905976844025089
+    second: OVER_285
+  - first:
+      213: 5143444292246292126
+    second: OVER_286
+  - first:
+      213: -3128816168645733384
+    second: OVER_287
+  - first:
+      213: -9145819312375189159
+    second: OVER_288
+  - first:
+      213: -6621970119510084114
+    second: OVER_289
+  - first:
+      213: 4969370803620444425
+    second: OVER_290
+  - first:
+      213: -1243336527774957285
+    second: OVER_291
+  - first:
+      213: -417564797727108745
+    second: OVER_292
+  - first:
+      213: 1352576768556569671
+    second: OVER_293
+  - first:
+      213: 7537761300110553872
+    second: OVER_294
+  - first:
+      213: -2721550559516709008
+    second: OVER_295
+  - first:
+      213: -693424028993266754
+    second: OVER_296
+  - first:
+      213: -4859183900382113843
+    second: OVER_297
+  - first:
+      213: 4298132354717123157
+    second: OVER_298
+  - first:
+      213: 7730113253632842446
+    second: OVER_299
+  - first:
+      213: 8451515012846829907
+    second: OVER_300
+  - first:
+      213: 6512546921167024945
+    second: OVER_301
+  - first:
+      213: -6559051479456982916
+    second: OVER_302
+  - first:
+      213: -723706050548503920
+    second: OVER_303
+  - first:
+      213: 7830934349540696591
+    second: OVER_304
+  - first:
+      213: -2732170096405460899
+    second: OVER_305
+  - first:
+      213: 8628586206540847046
+    second: OVER_306
+  - first:
+      213: -337643272912533087
+    second: OVER_307
+  - first:
+      213: 7455549601148368969
+    second: OVER_308
+  - first:
+      213: -5211413258623319532
+    second: OVER_309
+  - first:
+      213: -7110333975177333244
+    second: OVER_310
+  - first:
+      213: -359923466827000005
+    second: OVER_311
+  - first:
+      213: 3791067285065526400
+    second: OVER_312
+  - first:
+      213: -8901089008042980845
+    second: OVER_313
+  - first:
+      213: -1193360994250818461
+    second: OVER_314
+  - first:
+      213: 4692946116904531829
+    second: OVER_315
+  - first:
+      213: 8733488050572836661
+    second: OVER_316
+  - first:
+      213: -8345996538821773392
+    second: OVER_317
+  - first:
+      213: 5185214086779775213
+    second: OVER_318
+  - first:
+      213: -6554045363989044371
+    second: OVER_319
+  - first:
+      213: 2154786022844141939
+    second: OVER_320
+  - first:
+      213: -5723709767285798881
+    second: OVER_321
+  - first:
+      213: -4416773750723156455
+    second: OVER_322
+  - first:
+      213: 3523141337479685659
+    second: OVER_323
+  - first:
+      213: 8852661696193806006
+    second: OVER_324
+  - first:
+      213: 2028597287407698125
+    second: OVER_325
+  - first:
+      213: 9026603388466159513
+    second: OVER_326
+  - first:
+      213: 1922277337961443998
+    second: OVER_327
+  - first:
+      213: -7675847914466748065
+    second: OVER_328
+  - first:
+      213: 1022408399188579761
+    second: OVER_329
+  - first:
+      213: -8844382843790341295
+    second: OVER_330
+  - first:
+      213: 5790442384216604743
+    second: OVER_331
+  - first:
+      213: -3150338285080508541
+    second: OVER_332
+  - first:
+      213: -4620338587192733482
+    second: OVER_333
+  - first:
+      213: -3621625562144849282
+    second: OVER_334
+  - first:
+      213: -799536313297322740
+    second: OVER_335
+  - first:
+      213: -8330348324668458501
+    second: OVER_336
+  - first:
+      213: -4557121265213868872
+    second: OVER_337
+  - first:
+      213: 7659408940885441632
+    second: OVER_338
+  - first:
+      213: -1513912819814310072
+    second: OVER_339
+  - first:
+      213: 3707193382364486964
+    second: OVER_340
+  - first:
+      213: 5906073290792148440
+    second: OVER_341
+  - first:
+      213: 8530378336197540554
+    second: OVER_342
+  - first:
+      213: -8482529991333770852
+    second: OVER_343
+  - first:
+      213: 6244250185121404466
+    second: OVER_344
+  - first:
+      213: 1274774368213740276
+    second: OVER_345
+  - first:
+      213: -8364005531593980538
+    second: OVER_346
+  - first:
+      213: 1876542673328258444
+    second: OVER_347
+  - first:
+      213: -6351717721755471538
+    second: OVER_348
+  - first:
+      213: 2112040620131109429
+    second: OVER_349
+  - first:
+      213: 2733160800850647524
+    second: OVER_350
+  - first:
+      213: -4504933638279714950
+    second: OVER_351
+  - first:
+      213: -8283337541096446415
+    second: OVER_352
+  - first:
+      213: -3644569790623050789
+    second: OVER_353
+  - first:
+      213: 3083056208422898157
+    second: OVER_354
+  - first:
+      213: 1379035825609390178
+    second: OVER_355
+  - first:
+      213: -4393705484875188904
+    second: OVER_356
+  - first:
+      213: -2331477236141383681
+    second: OVER_357
+  - first:
+      213: -4196689389183650541
+    second: OVER_358
+  - first:
+      213: -7692684838308852544
+    second: OVER_359
+  - first:
+      213: -4804636925405001337
+    second: OVER_360
+  - first:
+      213: 8045077557746669402
+    second: OVER_361
+  - first:
+      213: -6650012771159455873
+    second: OVER_362
+  - first:
+      213: 5973416006081961437
+    second: OVER_363
+  - first:
+      213: -3810396308526275273
+    second: OVER_364
+  - first:
+      213: -7488444081125947002
+    second: OVER_365
+  - first:
+      213: -7567733134439182004
+    second: OVER_366
+  - first:
+      213: 7728804219162957043
+    second: OVER_367
+  - first:
+      213: -6928573024590968276
+    second: OVER_368
+  - first:
+      213: -645824955424966008
+    second: OVER_369
+  - first:
+      213: 8996202472905182267
+    second: OVER_370
+  - first:
+      213: -5179124933797352237
+    second: OVER_371
+  - first:
+      213: -2946907074098075881
+    second: OVER_372
+  - first:
+      213: -4740224300047890204
+    second: OVER_373
+  - first:
+      213: 3511393215520260808
+    second: OVER_374
+  - first:
+      213: 8794003744857961567
+    second: OVER_375
+  - first:
+      213: -2371931389283499115
+    second: OVER_376
+  - first:
+      213: -7002357534916057075
+    second: OVER_377
+  - first:
+      213: -7928261367653713701
+    second: OVER_378
+  - first:
+      213: 7357066913715662007
+    second: OVER_379
+  - first:
+      213: 4382360335169771479
+    second: OVER_380
+  - first:
+      213: -6318910092064181898
+    second: OVER_381
+  - first:
+      213: 2726700370337615518
+    second: OVER_382
+  - first:
+      213: 3051055172610735122
+    second: OVER_383
+  - first:
+      213: 6200135378142590472
+    second: OVER_384
+  - first:
+      213: 2106864341087606681
+    second: OVER_385
+  - first:
+      213: 4740125873835648359
+    second: OVER_386
+  - first:
+      213: -2876006713625676628
+    second: OVER_387
+  - first:
+      213: -7626442350653569839
+    second: OVER_388
+  - first:
+      213: 900479759504910748
+    second: OVER_389
+  - first:
+      213: -1601272629520713772
+    second: OVER_390
+  - first:
+      213: 768552351987399599
+    second: OVER_391
+  - first:
+      213: -7866740438546802900
+    second: OVER_392
+  - first:
+      213: -4819669148488541918
+    second: OVER_393
+  - first:
+      213: -5236825564407609810
+    second: OVER_394
+  - first:
+      213: -5936739485867602797
+    second: OVER_395
+  - first:
+      213: 6710749822306613011
+    second: OVER_396
+  - first:
+      213: 2846062910686274358
+    second: OVER_397
+  - first:
+      213: -7105278300133780212
+    second: OVER_398
+  - first:
+      213: -1730274825233680584
+    second: OVER_399
+  - first:
+      213: 4419694346002597447
+    second: OVER_400
+  - first:
+      213: 2968234078394646750
+    second: OVER_401
+  - first:
+      213: 4322141152488991624
+    second: OVER_402
+  - first:
+      213: 9213034118523245691
+    second: OVER_403
+  - first:
+      213: -2870109567088196368
+    second: OVER_404
+  - first:
+      213: 4574797387973391535
+    second: OVER_405
+  - first:
+      213: -1769192387505503708
+    second: OVER_406
+  - first:
+      213: -810659925715697725
+    second: OVER_407
+  - first:
+      213: -2851948541528727895
+    second: OVER_408
+  - first:
+      213: -8623373082832511460
+    second: OVER_409
+  - first:
+      213: -7034525207400462514
+    second: OVER_410
+  - first:
+      213: -1803610470179327393
+    second: OVER_411
+  - first:
+      213: 5807079579736198596
+    second: OVER_412
+  - first:
+      213: -8050721109045890761
+    second: OVER_413
+  - first:
+      213: 8656754824418886496
+    second: OVER_414
+  - first:
+      213: -6827145122217485830
+    second: OVER_415
+  - first:
+      213: -805687931783174189
+    second: OVER_416
+  - first:
+      213: -2307862732113782273
+    second: OVER_417
+  - first:
+      213: -9090857958096072434
+    second: OVER_418
+  - first:
+      213: 2747501510812027105
+    second: OVER_419
+  - first:
+      213: 3812555987531078675
+    second: OVER_420
+  - first:
+      213: 1872940383841309943
+    second: OVER_421
+  - first:
+      213: -3294753152745895062
+    second: OVER_422
+  - first:
+      213: -3536719917509056277
+    second: OVER_423
+  - first:
+      213: 3319165290554063676
+    second: OVER_424
+  - first:
+      213: -8677736376647932014
+    second: OVER_425
+  - first:
+      213: -6165452746847975163
+    second: OVER_426
+  - first:
+      213: 7559161373626406046
+    second: OVER_427
+  - first:
+      213: 3577062063563082533
+    second: OVER_428
+  - first:
+      213: 4163154992610658574
+    second: OVER_429
+  - first:
+      213: -6165885532813147713
+    second: OVER_430
+  - first:
+      213: 1902701481778
+    second: OVER_431
+  - first:
+      213: -387116915369254392
+    second: OVER_432
+  - first:
+      213: 460976711710199940
+    second: OVER_433
+  - first:
+      213: 4050899836614429736
+    second: OVER_434
+  - first:
+      213: -3085009093338094571
+    second: OVER_435
+  - first:
+      213: 1045557243434276837
+    second: OVER_436
+  - first:
+      213: 2586174311245535412
+    second: OVER_437
+  - first:
+      213: -4200653554016830876
+    second: OVER_438
+  - first:
+      213: -3491259620948563857
+    second: OVER_439
+  - first:
+      213: -6196699862772183197
+    second: OVER_440
+  - first:
+      213: -7811949432592688079
+    second: OVER_441
+  - first:
+      213: 1035502064570054711
+    second: OVER_442
+  - first:
+      213: 4127186891087573525
+    second: OVER_443
+  - first:
+      213: 4893346603558833522
+    second: OVER_444
+  - first:
+      213: 2140679575683796871
+    second: OVER_445
+  - first:
+      213: 5342293603493029742
+    second: OVER_446
+  - first:
+      213: 8616114954630335589
+    second: OVER_447
+  - first:
+      213: 8931717251378430742
+    second: OVER_448
+  - first:
+      213: 7159630342472504687
+    second: OVER_449
+  - first:
+      213: -9112707927485628352
+    second: OVER_450
+  - first:
+      213: -5972132638430100307
+    second: OVER_451
+  - first:
+      213: 1491587955134936549
+    second: OVER_452
+  - first:
+      213: 7577774643730011628
+    second: OVER_453
+  - first:
+      213: -7067059162693037875
+    second: OVER_454
+  - first:
+      213: -2979128844497727244
+    second: OVER_455
+  - first:
+      213: -5758981777765742122
+    second: OVER_456
+  - first:
+      213: -3456600894037260805
+    second: OVER_457
+  - first:
+      213: 7916405793479190315
+    second: OVER_458
+  - first:
+      213: 4241312641352207697
+    second: OVER_459
+  - first:
+      213: -1671009214148466246
+    second: OVER_460
+  - first:
+      213: -1701021526929490967
+    second: OVER_461
+  - first:
+      213: -7299147107331767402
+    second: OVER_462
+  - first:
+      213: 8572005706823070757
+    second: OVER_463
+  - first:
+      213: -4307023202850423914
+    second: OVER_464
+  - first:
+      213: 7671752137469539837
+    second: OVER_465
+  - first:
+      213: 6715322442545547057
+    second: OVER_466
+  - first:
+      213: -7634645345828572389
+    second: OVER_467
+  - first:
+      213: -4817339309932394480
+    second: OVER_468
+  - first:
+      213: 4891189836738091623
+    second: OVER_469
+  - first:
+      213: 4175227759922002457
+    second: OVER_470
+  - first:
+      213: 915229053363001251
+    second: OVER_471
+  - first:
+      213: -8123338123957474283
+    second: OVER_472
+  - first:
+      213: -8384720930256875827
+    second: OVER_473
+  - first:
+      213: -2938031906621354304
+    second: OVER_474
+  - first:
+      213: -4853470915134849404
+    second: OVER_475
+  - first:
+      213: 2075119957872924769
+    second: OVER_476
+  - first:
+      213: 3933604107609097457
+    second: OVER_477
+  - first:
+      213: 6386414853756094416
+    second: OVER_478
+  - first:
+      213: -2579770440308681414
+    second: OVER_479
+  - first:
+      213: 6296442336206248483
+    second: OVER_480
+  - first:
+      213: 5849824415098726308
+    second: OVER_481
+  - first:
+      213: -3814064703888872877
+    second: OVER_482
+  - first:
+      213: -1981746804222760331
+    second: OVER_483
+  - first:
+      213: 5567011789866408271
+    second: OVER_484
+  - first:
+      213: 7064024494259820166
+    second: OVER_485
+  - first:
+      213: 1994900700489525252
+    second: OVER_486
+  - first:
+      213: 614963185330856012
+    second: OVER_487
+  - first:
+      213: 7051960363919705809
+    second: OVER_488
+  - first:
+      213: 5984980849384923145
+    second: OVER_489
+  - first:
+      213: -8129063808386474718
+    second: OVER_490
+  - first:
+      213: -564251961086448618
+    second: OVER_491
+  - first:
+      213: 2137992999742518122
+    second: OVER_492
+  - first:
+      213: 3835309792234619438
+    second: OVER_493
+  - first:
+      213: -2254671632318909622
+    second: OVER_494
+  - first:
+      213: -283317889334039430
+    second: OVER_495
+  - first:
+      213: 4184805594073190844
+    second: OVER_496
+  - first:
+      213: 4912613353876904403
+    second: OVER_497
+  - first:
+      213: -4114666266442357475
+    second: OVER_498
+  - first:
+      213: -2491233436908145778
+    second: OVER_499
+  - first:
+      213: 7516549594935898853
+    second: OVER_500
+  - first:
+      213: 2676935608512508900
+    second: OVER_501
+  - first:
+      213: 4670134073396251500
+    second: OVER_502
+  - first:
+      213: -6495594599463191524
+    second: OVER_503
+  - first:
+      213: 6705285285558201245
+    second: OVER_504
+  - first:
+      213: -2129451060101502503
+    second: OVER_505
+  - first:
+      213: 2199267382918209448
+    second: OVER_506
+  - first:
+      213: -4991441433378583905
+    second: OVER_507
+  - first:
+      213: 5611492849016816095
+    second: OVER_508
+  - first:
+      213: 2023127136737040863
+    second: OVER_509
+  - first:
+      213: 4954653572522410147
+    second: OVER_510
+  - first:
+      213: -3710928528159507614
+    second: OVER_511
+  - first:
+      213: -1820726705360284636
+    second: OVER_512
+  - first:
+      213: 3327898206192202365
+    second: OVER_513
+  - first:
+      213: 4773813089061349712
+    second: OVER_514
+  - first:
+      213: 6150667577980112332
+    second: OVER_515
+  - first:
+      213: -4522136336062653159
+    second: OVER_516
+  - first:
+      213: 7741637538034803480
+    second: OVER_517
+  - first:
+      213: 3510843557522791013
+    second: OVER_518
+  - first:
+      213: -8324872620617495245
+    second: OVER_519
+  - first:
+      213: 4653198560952772031
+    second: OVER_520
+  - first:
+      213: -8673152318127110085
+    second: OVER_521
+  - first:
+      213: 7286268462066878458
+    second: OVER_522
+  - first:
+      213: -7458987877996884526
+    second: OVER_523
+  - first:
+      213: 6084300889916556049
+    second: OVER_524
+  - first:
+      213: -6649539031801808249
+    second: OVER_525
+  - first:
+      213: -4779572905472632708
+    second: OVER_526
+  - first:
+      213: -2703642561845211449
+    second: OVER_527
+  - first:
+      213: 5306806930993602546
+    second: OVER_528
+  - first:
+      213: 453926598876628320
+    second: OVER_529
+  - first:
+      213: -7491344457001013309
+    second: OVER_530
+  - first:
+      213: -23492964436578374
+    second: OVER_531
+  - first:
+      213: -1237997012542734526
+    second: OVER_532
+  - first:
+      213: 3420778972885663467
+    second: OVER_533
+  - first:
+      213: -6919931068173291055
+    second: OVER_534
+  - first:
+      213: -1532708013475571103
+    second: OVER_535
+  - first:
+      213: -7021448232658039731
+    second: OVER_536
+  - first:
+      213: 7816635654567496114
+    second: OVER_537
+  - first:
+      213: 9072368283732086850
+    second: OVER_538
+  - first:
+      213: 9135160772466434954
+    second: OVER_539
+  - first:
+      213: -5341741228251371778
+    second: OVER_540
+  - first:
+      213: -9203145399460634943
+    second: OVER_541
+  - first:
+      213: 5351262727699028394
+    second: OVER_542
+  - first:
+      213: 6847023787315199078
+    second: OVER_543
+  - first:
+      213: -7467406893069392084
+    second: OVER_544
+  - first:
+      213: 873049655386634821
+    second: OVER_545
+  - first:
+      213: 6773254824681055053
+    second: OVER_546
+  - first:
+      213: 1088430668551874094
+    second: OVER_547
+  - first:
+      213: -7400044966156421611
+    second: OVER_548
+  - first:
+      213: -8984720679142530053
+    second: OVER_549
+  - first:
+      213: 1690971223322788738
+    second: OVER_550
+  - first:
+      213: -2036485359732553719
+    second: OVER_551
+  - first:
+      213: 7933125629385497422
+    second: OVER_552
+  - first:
+      213: 1355332949528268567
+    second: OVER_553
+  - first:
+      213: -1828560602445792111
+    second: OVER_554
+  - first:
+      213: -4960552771816969107
+    second: OVER_555
+  - first:
+      213: -2353626181408410587
+    second: OVER_556
+  - first:
+      213: -4472047054898064581
+    second: OVER_557
+  - first:
+      213: -2083558177555638112
+    second: OVER_558
+  - first:
+      213: -6063018231897995990
+    second: OVER_559
+  - first:
+      213: 5131636312470154041
+    second: OVER_560
+  - first:
+      213: -577596166963835230
+    second: OVER_561
+  - first:
+      213: 525547123230421320
+    second: OVER_562
+  - first:
+      213: -5297583115625480531
+    second: OVER_563
+  - first:
+      213: 8324776229964722593
+    second: OVER_564
+  - first:
+      213: -4383292597163343279
+    second: OVER_565
+  - first:
+      213: -7911161653467955542
+    second: OVER_566
+  - first:
+      213: -3673326213747103153
+    second: OVER_567
+  - first:
+      213: 1726073702910209655
+    second: OVER_568
+  - first:
+      213: 7792318150030379442
+    second: OVER_569
+  - first:
+      213: -2457782449944572571
+    second: OVER_570
+  - first:
+      213: -8667713645479842187
+    second: OVER_571
+  - first:
+      213: 2450474501535710690
+    second: OVER_572
+  - first:
+      213: -3157977317840334531
+    second: OVER_573
+  - first:
+      213: 6892358845249137144
+    second: OVER_574
+  - first:
+      213: 9117496304097900973
+    second: OVER_575
+  - first:
+      213: 4778828515675660292
+    second: OVER_576
+  - first:
+      213: -8138695193384902526
+    second: OVER_577
+  - first:
+      213: 1433111991686009241
+    second: OVER_578
+  - first:
+      213: -1170133475862828697
+    second: OVER_579
+  - first:
+      213: 4912105763751508364
+    second: OVER_580
+  - first:
+      213: -512340169308438146
+    second: OVER_581
+  - first:
+      213: -5154667752814918973
+    second: OVER_582
+  - first:
+      213: -8269122116727732922
+    second: OVER_583
+  - first:
+      213: -2909015543697439684
+    second: OVER_584
+  - first:
+      213: 3165815945092441257
+    second: OVER_585
+  - first:
+      213: -433719390509229768
+    second: OVER_586
+  - first:
+      213: 1207949546366691182
+    second: OVER_587
+  - first:
+      213: -4504804747875856335
+    second: OVER_588
+  - first:
+      213: -1414975386508442627
+    second: OVER_589
+  - first:
+      213: 3701537915358019828
+    second: OVER_590
+  - first:
+      213: -8746125937813548147
+    second: OVER_591
+  - first:
+      213: -3190491769337110348
+    second: OVER_592
+  - first:
+      213: 6477285857648169189
+    second: OVER_593
+  - first:
+      213: 81460781201219411
+    second: OVER_594
+  - first:
+      213: 2882937565592093666
+    second: OVER_595
+  - first:
+      213: 5638507808595736954
+    second: OVER_596
+  - first:
+      213: 227794194004184211
+    second: OVER_597
+  - first:
+      213: -8583879207714800131
+    second: OVER_598
+  - first:
+      213: -3871983648929484702
+    second: OVER_599
+  - first:
+      213: 4440313917496253756
+    second: OVER_600
+  - first:
+      213: 1713191513302903355
+    second: OVER_601
+  - first:
+      213: -2710393833278838828
+    second: OVER_602
+  - first:
+      213: 5589812128010616116
+    second: OVER_603
+  - first:
+      213: -939635851391945187
+    second: OVER_604
+  - first:
+      213: -8880222947309212426
+    second: OVER_605
+  - first:
+      213: 8297242972542043830
+    second: OVER_606
+  - first:
+      213: 1133905249832428030
+    second: OVER_607
+  - first:
+      213: 1541033663484853948
+    second: OVER_608
+  - first:
+      213: -2651124899833637374
+    second: OVER_609
+  - first:
+      213: 8548959988049356053
+    second: OVER_610
+  - first:
+      213: 8467910821478029041
+    second: OVER_611
+  - first:
+      213: 4342161969578574616
+    second: OVER_612
+  - first:
+      213: 2521851885173686082
+    second: OVER_613
+  - first:
+      213: -809008446832286199
+    second: OVER_614
+  - first:
+      213: 6057215725123274654
+    second: OVER_615
+  - first:
+      213: -1278139285768972041
+    second: OVER_616
+  - first:
+      213: 6891598383986480105
+    second: OVER_617
+  - first:
+      213: 3770775049519444456
+    second: OVER_618
+  - first:
+      213: -4415702758234713012
+    second: OVER_619
+  - first:
+      213: -3271918305763712038
+    second: OVER_620
+  - first:
+      213: 1243241126797025075
+    second: OVER_621
+  - first:
+      213: 5480742759347486543
+    second: OVER_622
+  - first:
+      213: 2682950187464496812
+    second: OVER_623
+  - first:
+      213: 1509267468314094088
+    second: OVER_624
+  - first:
+      213: 5327530615677021935
+    second: OVER_625
+  - first:
+      213: -5822845552011676707
+    second: OVER_626
+  - first:
+      213: -447405264535748386
+    second: OVER_627
+  - first:
+      213: -1896332855089047790
+    second: OVER_628
+  - first:
+      213: -3783869482573405851
+    second: OVER_629
+  - first:
+      213: 6231061885127905824
+    second: OVER_630
+  - first:
+      213: -5050723644286187466
+    second: OVER_631
+  - first:
+      213: 847460874313551443
+    second: OVER_632
+  - first:
+      213: -6230029197999619260
+    second: OVER_633
+  - first:
+      213: 7848406563215267767
+    second: OVER_634
+  - first:
+      213: -8949213662169262049
+    second: OVER_635
+  - first:
+      213: -5066943403971331162
+    second: OVER_636
+  - first:
+      213: 5136881781589482665
+    second: OVER_637
+  - first:
+      213: -7096288625261659205
+    second: OVER_638
+  - first:
+      213: 1007524123177770062
+    second: OVER_639
+  - first:
+      213: -3959637555487011615
+    second: OVER_640
+  - first:
+      213: 457444749364930853
+    second: OVER_641
+  - first:
+      213: 1640409734783219040
+    second: OVER_642
+  - first:
+      213: 2023386059344231901
+    second: OVER_643
+  - first:
+      213: 1631911601067831344
+    second: OVER_644
+  - first:
+      213: -6094045592487000494
+    second: OVER_645
+  - first:
+      213: 8710505307358901569
+    second: OVER_646
+  - first:
+      213: -6020281241294538057
+    second: OVER_647
+  - first:
+      213: -3076728733458634137
+    second: OVER_648
+  - first:
+      213: -6402274652859435969
+    second: OVER_649
+  - first:
+      213: 2130921070943913984
+    second: OVER_650
+  - first:
+      213: -609873695277481809
+    second: OVER_651
+  - first:
+      213: -2237168375474501087
+    second: OVER_652
+  - first:
+      213: -579234898541076240
+    second: OVER_653
+  - first:
+      213: 257327851124546433
+    second: OVER_654
+  - first:
+      213: -3688513781192654729
+    second: OVER_655
+  - first:
+      213: 8001907228842522309
+    second: OVER_656
+  - first:
+      213: 6446214005132157466
+    second: OVER_657
+  - first:
+      213: -1542224663428874272
+    second: OVER_658
+  - first:
+      213: 1034083634506771956
+    second: OVER_659
+  - first:
+      213: 8820809101895578078
+    second: OVER_660
+  - first:
+      213: -6233763093935072538
+    second: OVER_661
+  - first:
+      213: 991446161965882948
+    second: OVER_662
+  - first:
+      213: -2516813874194302253
+    second: OVER_663
+  - first:
+      213: -9054075267677750119
+    second: OVER_664
+  - first:
+      213: -709913034978417222
+    second: OVER_665
+  - first:
+      213: 2018146178603384200
+    second: OVER_666
+  - first:
+      213: -5051682738557879296
+    second: OVER_667
+  - first:
+      213: 6098447951891735454
+    second: OVER_668
+  - first:
+      213: 1282228167472438421
+    second: OVER_669
+  - first:
+      213: 7361709135625705109
+    second: OVER_670
+  - first:
+      213: 6741715044232811779
+    second: OVER_671
+  - first:
+      213: -2405442732752206603
+    second: OVER_672
+  - first:
+      213: -1844430362771455905
+    second: OVER_673
+  - first:
+      213: 3963791503753965003
+    second: OVER_674
+  - first:
+      213: -634370212455074484
+    second: OVER_675
+  - first:
+      213: -2298117968659810282
+    second: OVER_676
+  - first:
+      213: -8910888791117739267
+    second: OVER_677
+  - first:
+      213: 2638536816104685161
+    second: OVER_678
+  - first:
+      213: -3495936418415257988
+    second: OVER_679
+  - first:
+      213: -6582089264666987509
+    second: OVER_680
+  - first:
+      213: 6219340516953923790
+    second: OVER_681
+  - first:
+      213: 5781494781902943303
+    second: OVER_682
+  - first:
+      213: -7776742619170046884
+    second: OVER_683
+  - first:
+      213: 2989826512134098858
+    second: OVER_684
+  - first:
+      213: -1094829865862512303
+    second: OVER_685
+  - first:
+      213: 4654787866390442567
+    second: OVER_686
+  - first:
+      213: -5050698295118063277
+    second: OVER_687
+  - first:
+      213: -2938284912786326432
+    second: OVER_688
+  - first:
+      213: 2970546265145536428
+    second: OVER_689
+  - first:
+      213: -6652745135767149884
+    second: OVER_690
+  - first:
+      213: -7047160877705739412
+    second: OVER_691
+  - first:
+      213: 512210316359946510
+    second: OVER_692
+  - first:
+      213: -7635304814744318248
+    second: OVER_693
+  - first:
+      213: 2542470450508391785
+    second: OVER_694
+  - first:
+      213: -4578584371338558697
+    second: OVER_695
+  - first:
+      213: 260387205067170451
+    second: OVER_696
+  - first:
+      213: 4106853392710823162
+    second: OVER_697
+  - first:
+      213: 5083800209099196306
+    second: OVER_698
+  - first:
+      213: 1959559736401888012
+    second: OVER_699
+  - first:
+      213: 958412327882498683
+    second: OVER_700
+  - first:
+      213: -6529279687903640888
+    second: OVER_701
+  - first:
+      213: -2040727556105951475
+    second: OVER_702
+  - first:
+      213: -145359820540566208
+    second: OVER_703
+  - first:
+      213: 4175527926027991189
+    second: OVER_704
+  - first:
+      213: -1996357810159841825
+    second: OVER_705
+  - first:
+      213: -2617047623050414268
+    second: OVER_706
+  - first:
+      213: 5525551683167682267
+    second: OVER_707
+  - first:
+      213: -869795147478817323
+    second: OVER_708
+  - first:
+      213: 9169775442161403427
+    second: OVER_709
+  - first:
+      213: 4713525814175061048
+    second: OVER_710
+  - first:
+      213: 6888116642860777770
+    second: OVER_711
+  - first:
+      213: 3073056847123283145
+    second: OVER_712
+  - first:
+      213: 3359739175484065822
+    second: OVER_713
+  - first:
+      213: 5612191262388898211
+    second: OVER_714
+  - first:
+      213: 6780055026046992668
+    second: OVER_715
+  - first:
+      213: 6564181890145231244
+    second: OVER_716
+  - first:
+      213: 5056565229515791050
+    second: OVER_717
+  - first:
+      213: -8420705047604801565
+    second: OVER_718
+  - first:
+      213: -3512621950807581369
+    second: OVER_719
+  - first:
+      213: -4294576538929973807
+    second: OVER_720
+  - first:
+      213: -2192474271059924588
+    second: OVER_721
+  - first:
+      213: 578778565539079709
+    second: OVER_722
+  - first:
+      213: -8320290720200058987
+    second: OVER_723
+  - first:
+      213: -7386902734231302546
+    second: OVER_724
+  - first:
+      213: -3378493658138637979
+    second: OVER_725
+  - first:
+      213: -1042812358145175851
+    second: OVER_726
+  - first:
+      213: -350733223558995235
+    second: OVER_727
+  - first:
+      213: 7284047967767165491
+    second: OVER_728
+  - first:
+      213: -8521412475888035371
+    second: OVER_729
+  - first:
+      213: 2030754753359796293
+    second: OVER_730
+  - first:
+      213: 6999444805756064287
+    second: OVER_731
+  - first:
+      213: 2386931007364382566
+    second: OVER_732
+  - first:
+      213: 8567134259378313264
+    second: OVER_733
+  - first:
+      213: 7122768347927135644
+    second: OVER_734
+  - first:
+      213: 44903175067669827
+    second: OVER_735
+  - first:
+      213: 7407823703049159752
+    second: OVER_736
+  - first:
+      213: -7989282046590695070
+    second: OVER_737
+  - first:
+      213: 3514893119093851045
+    second: OVER_738
+  - first:
+      213: -3741662508646743769
+    second: OVER_739
+  - first:
+      213: 820296223923173063
+    second: OVER_740
+  - first:
+      213: 2748394335323457996
+    second: OVER_741
+  - first:
+      213: 8483708277531403792
+    second: OVER_742
+  - first:
+      213: 6438141167518134630
+    second: OVER_743
+  - first:
+      213: -2555211507329657910
+    second: OVER_744
+  - first:
+      213: -3885528824969180819
+    second: OVER_745
+  - first:
+      213: -4166691505709465195
+    second: OVER_746
+  - first:
+      213: 1245412284995312696
+    second: OVER_747
+  - first:
+      213: -7310596258626191819
+    second: OVER_748
+  - first:
+      213: -9018948108560490832
+    second: OVER_749
+  - first:
+      213: 8552936098247067293
+    second: OVER_750
+  - first:
+      213: -5214435434526793467
+    second: OVER_751
+  - first:
+      213: -7892168789574474128
+    second: OVER_752
+  - first:
+      213: -3854084836117291347
+    second: OVER_753
+  - first:
+      213: 8499189889952509484
+    second: OVER_754
+  - first:
+      213: -770634552168148654
+    second: OVER_755
+  - first:
+      213: 4284104699595580273
+    second: OVER_756
+  - first:
+      213: 2983172483964225191
+    second: OVER_757
+  - first:
+      213: -3879465235647138317
+    second: OVER_758
+  - first:
+      213: -8256994569413352606
+    second: OVER_759
+  - first:
+      213: -4160949143804248289
+    second: OVER_760
+  - first:
+      213: -6723388480651149069
+    second: OVER_761
+  - first:
+      213: -4465667423948705902
+    second: OVER_762
+  - first:
+      213: -8704393588753045358
+    second: OVER_763
+  - first:
+      213: 9174208214238393742
+    second: OVER_764
+  - first:
+      213: 5196039462378378101
+    second: OVER_765
+  - first:
+      213: 5383252882470085566
+    second: OVER_766
+  - first:
+      213: 1531040897563458611
+    second: OVER_767
+  - first:
+      213: -8572936761232925136
+    second: OVER_768
+  - first:
+      213: -2961502304187057209
+    second: OVER_769
+  - first:
+      213: -2563008098058349985
+    second: OVER_770
+  - first:
+      213: -1840970914417341773
+    second: OVER_771
+  - first:
+      213: -6099290196350491761
+    second: OVER_772
+  - first:
+      213: -4057016185345544614
+    second: OVER_773
+  - first:
+      213: -5210901247087036697
+    second: OVER_774
+  - first:
+      213: -6065803056738146588
+    second: OVER_775
+  - first:
+      213: -1215579567471892823
+    second: OVER_776
+  - first:
+      213: -3875421280372868102
+    second: OVER_777
+  - first:
+      213: 3439804539178979935
+    second: OVER_778
+  - first:
+      213: -6084803678170965659
+    second: OVER_779
+  - first:
+      213: -6934418479379578513
+    second: OVER_780
+  - first:
+      213: 6854971511697616498
+    second: OVER_781
+  - first:
+      213: -4682256182067832256
+    second: OVER_782
+  - first:
+      213: -5552068198679569928
+    second: OVER_783
+  - first:
+      213: -5928812666444547680
+    second: OVER_784
+  - first:
+      213: -9134486245121091915
+    second: OVER_785
+  - first:
+      213: 323689927722847775
+    second: OVER_786
+  - first:
+      213: 3312656940212595983
+    second: OVER_787
+  - first:
+      213: -4769671908424907796
+    second: OVER_788
+  - first:
+      213: 4942730661054782272
+    second: OVER_789
+  - first:
+      213: -9058661207859363341
+    second: OVER_790
+  - first:
+      213: -4842762618149796616
+    second: OVER_791
+  - first:
+      213: -3720235016632197079
+    second: OVER_792
+  - first:
+      213: -3131280546596142037
+    second: OVER_793
+  - first:
+      213: -3045951411864812272
+    second: OVER_794
+  - first:
+      213: 5204923517232713496
+    second: OVER_795
+  - first:
+      213: 2132436501114022494
+    second: OVER_796
+  - first:
+      213: 3261004644552911330
+    second: OVER_797
+  - first:
+      213: 3184027787595672667
+    second: OVER_798
+  - first:
+      213: -8797584763967121480
+    second: OVER_799
+  - first:
+      213: 1686840255783249025
+    second: OVER_800
+  - first:
+      213: 4052339628348816585
+    second: OVER_801
+  - first:
+      213: -2551155759176565688
+    second: OVER_802
+  - first:
+      213: 5352848700902002564
+    second: OVER_803
+  - first:
+      213: 7708096125234864389
+    second: OVER_804
+  - first:
+      213: 520411814923092705
+    second: OVER_805
+  - first:
+      213: -5924972174126390032
+    second: OVER_806
+  - first:
+      213: 5475792472264696827
+    second: OVER_807
+  - first:
+      213: -5627812384268568187
+    second: OVER_808
+  - first:
+      213: -2236061940050002382
+    second: OVER_809
+  - first:
+      213: 6276941471093696258
+    second: OVER_810
+  - first:
+      213: 2398631688764904029
+    second: OVER_811
+  - first:
+      213: -124949133250763748
+    second: OVER_812
+  - first:
+      213: -855706123067028791
+    second: OVER_813
+  - first:
+      213: -1985487676522152790
+    second: OVER_814
+  - first:
+      213: -569939705842159402
+    second: OVER_815
+  - first:
+      213: -2415480891554131302
+    second: OVER_816
+  - first:
+      213: 6446805970485119811
+    second: OVER_817
+  - first:
+      213: 5150383267538692941
+    second: OVER_818
+  - first:
+      213: -5269434815059126288
+    second: OVER_819
+  - first:
+      213: -4885837852961281902
+    second: OVER_820
+  - first:
+      213: 3818755548292048067
+    second: OVER_821
+  - first:
+      213: 626683399727915042
+    second: OVER_822
+  - first:
+      213: -588909572315274175
+    second: OVER_823
+  - first:
+      213: -1773878272320155845
+    second: OVER_824
+  - first:
+      213: -3062215314764421511
+    second: OVER_825
+  - first:
+      213: 5260092104195640352
+    second: OVER_826
+  - first:
+      213: 6658628724267475939
+    second: OVER_827
+  - first:
+      213: -8395139147020837192
+    second: OVER_828
+  - first:
+      213: 7467039684755386191
+    second: OVER_829
+  - first:
+      213: -1538921393664684854
+    second: OVER_830
+  - first:
+      213: 1696833888298342821
+    second: OVER_831
+  - first:
+      213: -4342595682122400619
+    second: OVER_832
+  - first:
+      213: 8851449660675728648
+    second: OVER_833
+  - first:
+      213: 8439423071525493884
+    second: OVER_834
+  - first:
+      213: 961604097180338026
+    second: OVER_835
+  - first:
+      213: -8014650626929471241
+    second: OVER_836
+  - first:
+      213: -6886758826245169624
+    second: OVER_837
+  - first:
+      213: 5592094043390198840
+    second: OVER_838
+  - first:
+      213: -8699991081558971591
+    second: OVER_839
+  - first:
+      213: -2600385040693083074
+    second: OVER_840
+  - first:
+      213: 3914716605648648391
+    second: OVER_841
+  - first:
+      213: 7208237370867532791
+    second: OVER_842
+  - first:
+      213: -4070106341503685418
+    second: OVER_843
+  - first:
+      213: 6930593726390644547
+    second: OVER_844
+  - first:
+      213: -1287918837350571439
+    second: OVER_845
+  - first:
+      213: 1800259127658127574
+    second: OVER_846
+  - first:
+      213: 4551721337266613860
+    second: OVER_847
+  - first:
+      213: 8869199545542527981
+    second: OVER_848
+  - first:
+      213: 6137171936881646931
+    second: OVER_849
+  - first:
+      213: -2731646773763693952
+    second: OVER_850
+  - first:
+      213: 8634106774647150028
+    second: OVER_851
+  - first:
+      213: -7667182351629982056
+    second: OVER_852
+  - first:
+      213: -5049333177619801167
+    second: OVER_853
+  - first:
+      213: 3223997678385938741
+    second: OVER_854
+  - first:
+      213: 7911788939271410737
+    second: OVER_855
+  - first:
+      213: 1420883915123655088
+    second: OVER_856
+  - first:
+      213: 3201133673378118134
+    second: OVER_857
+  - first:
+      213: 5982864858875934790
+    second: OVER_858
+  - first:
+      213: 2506038210054056207
+    second: OVER_859
+  - first:
+      213: 2995075145212405037
+    second: OVER_860
+  - first:
+      213: 949685425962258953
+    second: OVER_861
+  - first:
+      213: -7724006977341386074
+    second: OVER_862
+  - first:
+      213: -3545330526524924061
+    second: OVER_863
+  - first:
+      213: 1533997148866455014
+    second: OVER_864
+  - first:
+      213: -6077933479309816882
+    second: OVER_865
+  - first:
+      213: -2998739658990086775
+    second: OVER_866
+  - first:
+      213: -5556531791540540391
+    second: OVER_867
+  - first:
+      213: -5476493670396827123
+    second: OVER_868
+  - first:
+      213: -8853075412742545441
+    second: OVER_869
+  - first:
+      213: -5518059113021350042
+    second: OVER_870
+  - first:
+      213: 6168970331430370878
+    second: OVER_871
+  - first:
+      213: -4009042715178276738
+    second: OVER_872
+  - first:
+      213: -1047423867995398917
+    second: OVER_873
+  - first:
+      213: -2529357716155817079
+    second: OVER_874
+  - first:
+      213: -3535971678541930803
+    second: OVER_875
+  - first:
+      213: -6398240115433695957
+    second: OVER_876
+  - first:
+      213: 6208869110776112530
+    second: OVER_877
+  - first:
+      213: 1127131072147029626
+    second: OVER_878
+  - first:
+      213: 527789170050825964
+    second: OVER_879
+  - first:
+      213: -3006274140519587110
+    second: OVER_880
+  - first:
+      213: 5190131705966308380
+    second: OVER_881
+  - first:
+      213: -8862145117858565888
+    second: OVER_882
+  - first:
+      213: -8210839820493034299
+    second: OVER_883
+  - first:
+      213: -116583252420646250
+    second: OVER_884
+  - first:
+      213: -9080507552394701647
+    second: OVER_885
+  - first:
+      213: 769838820263548507
+    second: OVER_886
+  - first:
+      213: -6643571462191937824
+    second: OVER_887
+  - first:
+      213: -7582337163085834250
+    second: OVER_888
+  - first:
+      213: -8557153035641780623
+    second: OVER_889
+  - first:
+      213: -2028703312878317713
+    second: OVER_890
+  - first:
+      213: 1973680910839818461
+    second: OVER_891
+  - first:
+      213: 5286601299672884224
+    second: OVER_892
+  - first:
+      213: -1199297781816702072
+    second: OVER_893
+  - first:
+      213: -60880737904435801
+    second: OVER_894
+  - first:
+      213: 7515193313255702563
+    second: OVER_895
+  - first:
+      213: -2693966443006130058
+    second: OVER_896
+  - first:
+      213: 8019969152295307586
+    second: OVER_897
+  - first:
+      213: 2612950644734984130
+    second: OVER_898
+  - first:
+      213: -2473213025428815566
+    second: OVER_899
+  - first:
+      213: -1375654928979240570
+    second: OVER_900
+  - first:
+      213: -160251812243084873
+    second: OVER_901
+  - first:
+      213: 3072605477982800376
+    second: OVER_902
+  - first:
+      213: 2275327724901235161
+    second: OVER_903
+  - first:
+      213: 7543960383542845426
+    second: OVER_904
+  - first:
+      213: 7753676954076508394
+    second: OVER_905
+  - first:
+      213: 564938469413517430
+    second: OVER_906
+  - first:
+      213: -1227022100389691541
+    second: OVER_907
+  - first:
+      213: 2337122820826168090
+    second: OVER_908
+  - first:
+      213: -5831637392554076280
+    second: OVER_909
+  - first:
+      213: 7611288692627298879
+    second: OVER_910
+  - first:
+      213: 8144764560059023704
+    second: OVER_911
+  - first:
+      213: 4314817998483448925
+    second: OVER_912
+  - first:
+      213: 3827941984667531965
+    second: OVER_913
+  - first:
+      213: 1913938807227278678
+    second: OVER_914
+  - first:
+      213: 5378879191779274113
+    second: OVER_915
+  - first:
+      213: -6277834033710121246
+    second: OVER_916
+  - first:
+      213: -2556456452271352385
+    second: OVER_917
+  - first:
+      213: 6390739498665329588
+    second: OVER_918
+  - first:
+      213: -7377379021677542088
+    second: OVER_919
+  - first:
+      213: 5113720754499732036
+    second: OVER_920
+  - first:
+      213: -2015056730411548427
+    second: OVER_921
+  - first:
+      213: -1757099145747980744
+    second: OVER_922
+  - first:
+      213: 942081548530556039
+    second: OVER_923
+  - first:
+      213: 9153908996320845611
+    second: OVER_924
+  - first:
+      213: -7387857572448350860
+    second: OVER_925
+  - first:
+      213: -6105331314333461446
+    second: OVER_926
+  - first:
+      213: 1820251034766016511
+    second: OVER_927
+  - first:
+      213: -2053729855093540575
+    second: OVER_928
+  - first:
+      213: 489965405503608211
+    second: OVER_929
+  - first:
+      213: 4155499966805346627
+    second: OVER_930
+  - first:
+      213: 138270087495648150
+    second: OVER_931
+  - first:
+      213: 2306580664889460847
+    second: OVER_932
+  - first:
+      213: 1831212750225889903
+    second: OVER_933
+  - first:
+      213: 5503900676841281919
+    second: OVER_934
+  - first:
+      213: 9133042605602883420
+    second: OVER_935
+  - first:
+      213: -127437280016529512
+    second: OVER_936
+  - first:
+      213: 6314061945032495821
+    second: OVER_937
+  - first:
+      213: -7891501825520599745
+    second: OVER_938
+  - first:
+      213: -1233833767347375898
+    second: OVER_939
+  - first:
+      213: 8850692715612835806
+    second: OVER_940
+  - first:
+      213: -5424899366405967262
+    second: OVER_941
+  - first:
+      213: 5766149479240761285
+    second: OVER_942
+  - first:
+      213: 5389560174179972807
+    second: OVER_943
+  - first:
+      213: -8792210526554334225
+    second: OVER_944
+  - first:
+      213: 5652384663385622099
+    second: OVER_945
+  - first:
+      213: 2849000914090627989
+    second: OVER_946
+  - first:
+      213: -6618576536267810806
+    second: OVER_947
+  - first:
+      213: -9075593033113603679
+    second: OVER_948
+  - first:
+      213: 7419410773932834705
+    second: OVER_949
+  - first:
+      213: -7625203046256140619
+    second: OVER_950
+  - first:
+      213: 1800889680950404309
+    second: OVER_951
+  - first:
+      213: -3173439474396369124
+    second: OVER_952
+  - first:
+      213: -1796470993442615514
+    second: OVER_953
+  - first:
+      213: 4974878579700185929
+    second: OVER_954
+  - first:
+      213: 7607264130953234529
+    second: OVER_955
+  - first:
+      213: 8128083480979699598
+    second: OVER_956
+  - first:
+      213: -1126278583854163034
+    second: OVER_957
+  - first:
+      213: 8227231031112553704
+    second: OVER_958
+  - first:
+      213: 3119226058249380881
+    second: OVER_959
+  - first:
+      213: 6811358512146115892
+    second: OVER_960
+  - first:
+      213: -9106865098012164768
+    second: OVER_961
+  - first:
+      213: -2206506463211297998
+    second: OVER_962
+  - first:
+      213: 8045846256816598547
+    second: OVER_963
+  - first:
+      213: -871946110529484369
+    second: OVER_964
+  - first:
+      213: 890617597282656107
+    second: OVER_965
+  - first:
+      213: 2856214134507090742
+    second: OVER_966
+  - first:
+      213: -5360164212018931039
+    second: OVER_967
+  - first:
+      213: 8308182806026219824
+    second: OVER_968
+  - first:
+      213: -5879556129495384114
+    second: OVER_969
+  - first:
+      213: -4218165027078198048
+    second: OVER_970
+  - first:
+      213: -9045585105002034617
+    second: OVER_971
+  - first:
+      213: -7935045396774859569
+    second: OVER_972
+  - first:
+      213: -5444494964292204654
+    second: OVER_973
+  - first:
+      213: -4398026532843779607
+    second: OVER_974
+  - first:
+      213: -2005329492258172977
+    second: OVER_975
+  - first:
+      213: 2531382341719048473
+    second: OVER_976
+  - first:
+      213: -9003063666054408855
+    second: OVER_977
+  - first:
+      213: 4952876713802501253
+    second: OVER_978
+  - first:
+      213: -1361705576937658513
+    second: OVER_979
+  - first:
+      213: -1735926981897715583
+    second: OVER_980
+  - first:
+      213: 8605176897771344295
+    second: OVER_981
+  - first:
+      213: -1194607803881508332
+    second: OVER_982
+  - first:
+      213: 6630396381065217682
+    second: OVER_983
+  - first:
+      213: -4610305851605520541
+    second: OVER_984
+  - first:
+      213: 6064535622856442320
+    second: OVER_985
+  - first:
+      213: -8170161861374952448
+    second: OVER_986
+  - first:
+      213: -1610428358580111847
+    second: OVER_987
+  - first:
+      213: 6876749362939975932
+    second: OVER_988
+  - first:
+      213: -2807632058196916388
+    second: OVER_989
+  - first:
+      213: 4354344169443167774
+    second: OVER_990
+  - first:
+      213: 8490135543236615162
+    second: OVER_991
+  - first:
+      213: -2209192989621562682
+    second: OVER_992
+  - first:
+      213: 824734291779000034
+    second: OVER_993
+  - first:
+      213: -3668190411767929714
+    second: OVER_994
+  - first:
+      213: -6055748736175220318
+    second: OVER_995
+  - first:
+      213: -141713174907393235
+    second: OVER_996
+  - first:
+      213: -8802543321587691154
+    second: OVER_997
+  - first:
+      213: -2462366544091890688
+    second: OVER_998
+  - first:
+      213: -2692844434825262031
+    second: OVER_999
+  - first:
+      213: -6696205939305806904
+    second: OVER_1000
+  - first:
+      213: -8356121735526390306
+    second: OVER_1001
+  - first:
+      213: -3523731369418226572
+    second: OVER_1002
+  - first:
+      213: -736679472608403092
+    second: OVER_1003
+  - first:
+      213: 843388744588222480
+    second: OVER_1004
+  - first:
+      213: -1503357323032272133
+    second: OVER_1005
+  - first:
+      213: -177682148771277512
+    second: OVER_1006
+  - first:
+      213: 9165724321953694930
+    second: OVER_1007
+  - first:
+      213: 7887062495027684490
+    second: OVER_1008
+  - first:
+      213: -2145171616823413216
+    second: OVER_1009
+  - first:
+      213: 7265404684580679985
+    second: OVER_1010
+  - first:
+      213: -2564092236493155089
+    second: OVER_1011
+  - first:
+      213: -4584282116914849337
+    second: OVER_1012
+  - first:
+      213: 4170702594339563061
+    second: OVER_1013
+  - first:
+      213: -5362597709871859043
+    second: OVER_1014
+  - first:
+      213: 4432195389821795456
+    second: OVER_1015
+  - first:
+      213: -8049295185680788264
+    second: OVER_1016
+  - first:
+      213: 4805516416616657177
+    second: OVER_1017
+  - first:
+      213: -8044512612290380316
+    second: OVER_1018
+  - first:
+      213: -5461129199801582740
+    second: OVER_1019
+  - first:
+      213: 7107037436905456472
+    second: OVER_1020
+  - first:
+      213: -8220434109319913453
+    second: OVER_1021
+  - first:
+      213: -7188765300514947504
+    second: OVER_1022
+  - first:
+      213: -1521615178259465128
+    second: OVER_1023
+  - first:
+      213: 8635578721657834917
+    second: OVER_1024
+  - first:
+      213: 3972821947242994080
+    second: OVER_1025
+  - first:
+      213: 4640089867169329192
+    second: OVER_1026
+  - first:
+      213: -6086709429748541633
+    second: OVER_1027
+  - first:
+      213: 2891162078988804883
+    second: OVER_1028
+  - first:
+      213: 1680817328685456905
+    second: OVER_1029
+  - first:
+      213: -7935622398481006257
+    second: OVER_1030
+  - first:
+      213: -1711833406928872191
+    second: OVER_1031
+  - first:
+      213: -5915940498395006740
+    second: OVER_1032
+  - first:
+      213: -3629129819367567642
+    second: OVER_1033
+  - first:
+      213: -7185389446789656763
+    second: OVER_1034
+  - first:
+      213: -5905598159501621266
+    second: OVER_1035
+  - first:
+      213: 2764174061821780034
+    second: OVER_1036
+  - first:
+      213: -1854301264099132477
+    second: OVER_1037
+  - first:
+      213: 544998662508567888
+    second: OVER_1038
+  - first:
+      213: 7330634771145892697
+    second: OVER_1039
+  - first:
+      213: -8038025367202532988
+    second: OVER_1040
+  - first:
+      213: -4401571142639039125
+    second: OVER_1041
+  - first:
+      213: -6484784904724505986
+    second: OVER_1042
+  - first:
+      213: 2982492092948241797
+    second: OVER_1043
+  - first:
+      213: -5708983033609337323
+    second: OVER_1044
+  - first:
+      213: -6233780266158896247
+    second: OVER_1045
+  - first:
+      213: 1527620305814813693
+    second: OVER_1046
+  - first:
+      213: -8728449677264821957
+    second: OVER_1047
+  - first:
+      213: -967897226473507027
+    second: OVER_1048
+  - first:
+      213: -1202808980734436388
+    second: OVER_1049
+  - first:
+      213: -7628025580580282208
+    second: OVER_1050
+  - first:
+      213: 7086794576022906179
+    second: OVER_1051
+  - first:
+      213: 6962742126783327732
+    second: OVER_1052
+  - first:
+      213: -6523610228772188796
+    second: OVER_1053
+  - first:
+      213: 6389776352698666251
+    second: OVER_1054
+  - first:
+      213: -4867639030042844614
+    second: OVER_1055
+  - first:
+      213: -1267482505043537212
+    second: OVER_1056
+  - first:
+      213: -5172729630102305915
+    second: OVER_1057
+  - first:
+      213: -4238403046127353836
+    second: OVER_1058
+  - first:
+      213: -5143806993941786185
+    second: OVER_1059
+  - first:
+      213: 760812065726130583
+    second: OVER_1060
+  - first:
+      213: -7325886234876259341
+    second: OVER_1061
+  - first:
+      213: -3938784594816337839
+    second: OVER_1062
+  - first:
+      213: 2103769655811843125
+    second: OVER_1063
+  - first:
+      213: 4911422376005726444
+    second: OVER_1064
+  - first:
+      213: 4059107521905651355
+    second: OVER_1065
+  - first:
+      213: 4870701851041755996
+    second: OVER_1066
+  - first:
+      213: 901041087651034603
+    second: OVER_1067
+  - first:
+      213: 8552627441700551920
+    second: OVER_1068
+  - first:
+      213: -6502486661646149913
+    second: OVER_1069
+  - first:
+      213: 2743216929395230184
+    second: OVER_1070
+  - first:
+      213: -199174500257428350
+    second: OVER_1071
+  - first:
+      213: 5025241275208500890
+    second: OVER_1072
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OVER_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcfadac28b5c76c0800000000000000
+      internalID: -4144336939780473603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821e89d089d6fd50800000000000000
+      internalID: 6770838237227127433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15af3846e48ef95b0800000000000000
+      internalID: -5359309608156136879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124717a8624956550800000000000000
+      internalID: 6153487359124010017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b82b54e6d02ec180800000000000000
+      internalID: -9093294490288183114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b8c31a11947bc0800000000000000
+      internalID: -3786241845524647298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6148a3e20284c0800000000000000
+      internalID: -4286860718499598593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486e7f1c770b8670800000000000000
+      internalID: 8541929347923994688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ff8c2fb4295d70800000000000000
+      internalID: 9032290931173224636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b6e316510a1d40800000000000000
+      internalID: 5555754559527630219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256ac22279d4daa80800000000000000
+      internalID: -8454015613995801006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e449553ccaf04d20800000000000000
+      internalID: 3260881885191554278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e183a2705661210800000000000000
+      internalID: 1303340223617834588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a922c9a3dd50b7430800000000000000
+      internalID: 3781622759836885658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085cee77f11fcda10800000000000000
+      internalID: 1935687057320887680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a5139066a02390800000000000000
+      internalID: -7845087617164662819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d4f5e3522cf3f0800000000000000
+      internalID: -865779284626321197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d226b053939dc330800000000000000
+      internalID: 3732801927083598546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3f7db13345c660800000000000000
+      internalID: 7405399043192338969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b9f090a6bce9f0800000000000000
+      internalID: -437774263018473451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709ff546ce3981790800000000000000
+      internalID: -7559129331035801337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5dde295a5560410800000000000000
+      internalID: 1442934900241847752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52110f9c87f579980800000000000000
+      internalID: -8532245996641447643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbeab737c5c5f290800000000000000
+      internalID: -7857156515453801476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfbec08251a6f30800000000000000
+      internalID: 4569488033680456784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f6a71302148ee0800000000000000
+      internalID: -1259862191265876110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82410510f2ad8590800000000000000
+      internalID: -7670295438313831798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c023af78738f2e240800000000000000
+      internalID: 4819687468628062732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c4d6bec8fc6a190800000000000000
+      internalID: -7951439887923852129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccba84f43ec675960800000000000000
+      internalID: 7590655420499798988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74ee8ad635bc9ef0800000000000000
+      internalID: -100005844509334404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d8b664784ae690800000000000000
+      internalID: -7572160158693273464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b076ceb25870e09d0800000000000000
+      internalID: -2806297249256282357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08ea56c2a063530800000000000000
+      internalID: 3834263318553329911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80e3cf03086638a0800000000000000
+      internalID: -6325754264236597105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2313dc6ae499f90800000000000000
+      internalID: -6946434471928188182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8774487386011e2d0800000000000000
+      internalID: -3251299416190728328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ff40ad0e6b0cd0800000000000000
+      internalID: -2590856155818364019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_38
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7a7c359202fc250800000000000000
+      internalID: 5967023393160538058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c6ff7d592377740800000000000000
+      internalID: 5149640318076808341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a9aa52f18bba480800000000000000
+      internalID: -8886806995770107305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f39b8b8c6023950800000000000000
+      internalID: 6427207077373493030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3651077041c5b30800000000000000
+      internalID: 4277315768272905127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e679fcb1f7f840800000000000000
+      internalID: 5257936883919807586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddf2671098b12ed0800000000000000
+      internalID: -2440466594050933283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3056a6d991dd3880800000000000000
+      internalID: -8629510852310577092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6937fccf9f0ed5ce0800000000000000
+      internalID: -1414727343631535210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f243c9782adf88420800000000000000
+      internalID: 2632632856699745327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9d3480519a5220800000000000000
+      internalID: 2475450720195551182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_49
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db605aee2ccb6c8e0800000000000000
+      internalID: -1673442666108090691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_50
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdabee616de814500800000000000000
+      internalID: 378740893834722011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_51
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06a74b06a7a1d580800000000000000
+      internalID: -8804071464936954353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f97d254544571e10800000000000000
+      internalID: 2168294402092268021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68365b44420cd5600800000000000000
+      internalID: 458733999065752454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285277854f9585660800000000000000
+      internalID: 7374743295810282882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203763a0909aa1e50800000000000000
+      internalID: 6780918045250843394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0945789b7d71ed50800000000000000
+      internalID: 6764826085079468301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657ec332d78af5580800000000000000
+      internalID: -8836158688462051498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_58
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3539b9c2864242600800000000000000
+      internalID: 442518693232743251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca621052d75c01d0800000000000000
+      internalID: -3383232659263952184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d03a94481cb11e0800000000000000
+      internalID: -2225972816889311884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e537b33388bcd20800000000000000
+      internalID: 3299880905601146431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_62
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796d833e6c0a7c20800000000000000
+      internalID: 3204887752278370687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_63
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddce835a7281a910800000000000000
+      internalID: 1846900784098102738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c246d82035ac4a00800000000000000
+      internalID: 742149664871432899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a41f47ec174540800000000000000
+      internalID: 4991990491753260601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea5e517ee7cd550800000000000000
+      internalID: 6186959519070137929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb70205ededf89630800000000000000
+      internalID: 3934173472699320251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69a56205d2438e50800000000000000
+      internalID: 6810360544150006122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448e8242c3487890800000000000000
+      internalID: -7460138281119873978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f8a3036923db90800000000000000
+      internalID: -7218380272504868394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_71
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bf2a9051d86e020800000000000000
+      internalID: 2370737375352650618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f58baa27d035780800000000000000
+      internalID: -8695591669380653185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd3045ef05ce5300800000000000000
+      internalID: 242848101985959382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fc093deecabeee0800000000000000
+      internalID: -1230699931404021989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_75
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9833cb7a1fafd00800000000000000
+      internalID: 1007383169390053886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_76
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6af5b0c792cba60800000000000000
+      internalID: 7691067876385466063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_77
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674dec0fbf751a7a0800000000000000
+      internalID: -6367711658536676234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4eb1c87edf1bb0800000000000000
+      internalID: -4963003654111081635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be713b2682b289c00800000000000000
+      internalID: 907522777369745387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08453946b2bb230800000000000000
+      internalID: 3655563233509802152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51908fd1c63a559e0800000000000000
+      internalID: -1633219605097346795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd2b81cafdcf19a0800000000000000
+      internalID: -6260058480149058055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482a62d1182e5890800000000000000
+      internalID: -7467487075123976114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beabc908091ef010800000000000000
+      internalID: 1224443671006129841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502a96304afa26d0800000000000000
+      internalID: -3014321846870204332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157b1c00922d2580800000000000000
+      internalID: -8850379690639395564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8db200001d9410800000000000000
+      internalID: 1485361044334153455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_88
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767bfa8ac030ed20800000000000000
+      internalID: 3305695772963206783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_89
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ae7394e201b0cc0800000000000000
+      internalID: -3743880874245494186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_90
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66dec1df0fdd2f0800000000000000
+      internalID: -946335376775223609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e9831f617b09620800000000000000
+      internalID: 2778922279251779083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46576c25044860300800000000000000
+      internalID: 218007043775559012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8eac4073ec7d5b0800000000000000
+      internalID: -5343575697152874298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df3f1b27fee03710800000000000000
+      internalID: 1671098207102255062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56455ad8b76ea5310800000000000000
+      internalID: 1394680452956378213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfc732dc3c283f60800000000000000
+      internalID: 8014204176642330591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_97
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bfbd34bc461cad0800000000000000
+      internalID: -2683753078756476078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87568a703c0e770800000000000000
+      internalID: 8638118522954021074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b903951d982455c0800000000000000
+      internalID: -4227709495057118800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153b836a90ed100c0800000000000000
+      internalID: -4611160410425871535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef578b553c93290800000000000000
+      internalID: -7910076497565188536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc12e34281a9b920800000000000000
+      internalID: 3006611807103229125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d365efce189220800000000000000
+      internalID: 2492776272005156866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79064072d3180ff10800000000000000
+      internalID: 2301481509233909911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5248a41118e4f6810800000000000000
+      internalID: 1760712295572997157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a7c6361a4b82350800000000000000
+      internalID: 5992237909467232899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_107
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a36af0f43ac8e0800000000000000
+      internalID: -1672466102017087959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba0f59477183130800000000000000
+      internalID: 3546610496053488455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcac45aacd981060800000000000000
+      internalID: 6924457920764357887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81101e40dbdd89130800000000000000
+      internalID: 3573850108218900760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4e2ba02ce02810800000000000000
+      internalID: 1738649081220058343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c23d80c8e8c818a0800000000000000
+      internalID: -6334091973908155710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_113
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3ededec52346fe0800000000000000
+      internalID: -1196776226263538755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6019d51cdc5ce250800000000000000
+      internalID: 5975252905942913133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15068e78be79c00800000000000000
+      internalID: 907452818890183154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31fe258612caca0800000000000000
+      internalID: -6004387471239998541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_117
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e958afdb6d2bdd4b0800000000000000
+      internalID: -5413974541649410658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720f3fbbe6403840800000000000000
+      internalID: 5201735547952759419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_119
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de763d4e4f8c61f70800000000000000
+      internalID: 9157727846441117677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_120
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068b87da50b6006f0800000000000000
+      internalID: -720458268249900960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a6d56a5edcd53f0800000000000000
+      internalID: -910345163436627320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f11b3e99dee6430800000000000000
+      internalID: 3778218382616239982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_123
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9077fe2570276c20800000000000000
+      internalID: 3199561747941257372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83937ad45f8794790800000000000000
+      internalID: -7545366705717429960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6978fb5e0aac6a0800000000000000
+      internalID: -6428148609496672515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421e499c7e8e7460800000000000000
+      internalID: 7241381916657455688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_127
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1a4b3dbcd0bb850800000000000000
+      internalID: 6393719265063903659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628ef899f569b1040800000000000000
+      internalID: 4619451180140980262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_129
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e2f615df5a621f0800000000000000
+      internalID: -1069985354042364279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057db0aa42354a810800000000000000
+      internalID: 1775635570027648848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a09565d0e56df950800000000000000
+      internalID: 6484451054810665122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4407dabc31d7f2ef0800000000000000
+      internalID: -130748340195463100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f30968c673240d60800000000000000
+      internalID: 7855442643116426229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_134
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c81c4827b1a98370800000000000000
+      internalID: 8325363194198235328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd22223369ff9f290800000000000000
+      internalID: -7855967054403067173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d4e3c18b7f76c0800000000000000
+      internalID: -4143457334890015172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OVER_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454798fa279c5e4f0800000000000000
+      internalID: -800011864379919276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,6 +7,8 @@ public class PlayerMovement : MonoBehaviour{
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
+    
+    
     // Start is called before the first frame update
     void Start(){
         animator = GetComponent<Animator>();
@@ -16,9 +18,11 @@ public class PlayerMovement : MonoBehaviour{
     // Update is called once per frame
     void Update(){
         change = Vector3.zero;
-        change.x = Input.GetAxisRaw("Horizontal");
-        change.y = Input.GetAxisRaw("Vertical");
+        change.x = SimpleInput.GetAxis("Horizontal");
+        change.y = SimpleInput.GetAxis("Vertical");
         UpdateAnimationAndMove();
+
+
         //Debug.Log(change);
     }
     void UpdateAnimationAndMove(){
