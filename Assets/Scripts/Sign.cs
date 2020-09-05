@@ -7,6 +7,8 @@ public class Sign : MonoBehaviour{
     public Text dialogText;
     public string dialog;
     public bool playerInRange;
+    public Signal contextOn;
+    public Signal contextOff;
     void Start(){
         
     }
@@ -28,6 +30,7 @@ public class Sign : MonoBehaviour{
         if(box.CompareTag("Player")){
             //Debug.Log("Player in range...");
             playerInRange = true;
+            contextOn.Raise();
         }
     }
     private void OnTriggerExit2D(Collider2D box){
@@ -35,6 +38,7 @@ public class Sign : MonoBehaviour{
             //Debug.Log("Player left range...");
             playerInRange = false;
             dialogBox.SetActive(false);
+            contextOff.Raise();
         }
     }
 }
