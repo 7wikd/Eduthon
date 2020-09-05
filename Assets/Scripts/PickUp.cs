@@ -13,14 +13,13 @@ public class PickUp : MonoBehaviour
 
     private void Start()
     {
-        // Vector3 pos = inventory.slots[0].transform;
         inventory = GameObject.FindGameObjectWithTag("Player").GetComponent<Inventory>();
         im = itemButton.GetComponent<Image>(); 
     }
 
     void OnTriggerEnter2D(Collider2D other) {
         if(other.CompareTag("Player")) {
-            for(int i=0; i<inventory.slots.Length; i++)
+            for(int i=inventory.slots.Length; i>0; i--)
             {
                 if(inventory.isFull[i]==false) {
                     inventory.isFull[i] = true; 
