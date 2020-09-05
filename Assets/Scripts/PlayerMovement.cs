@@ -32,11 +32,7 @@ public class PlayerMovement : MonoBehaviour{
 
         //Debug.Log(change);
     }
-    void OnTriggerEnter2D(Collider2D other) {
-        if(other.CompareTag("Trigger")){
-            Instantiate(stack, reference.transform, false);
-        }
-    }
+    
     void UpdateAnimationAndMove(){
         if (change != Vector3.zero){
             MoveCharacter();
