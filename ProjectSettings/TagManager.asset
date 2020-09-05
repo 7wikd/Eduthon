@@ -6,7 +6,6 @@ TagManager:
   tags:
   - Trigger
   - Reference
-  - ButtonObject
   layers:
   - Default
   - TransparentFX
