@@ -1,18 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class PlayerMovement : MonoBehaviour{
     public float speed;
+    public GameObject stack;
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
-    
+    public GameObject reference;
     
     // Start is called before the first frame update
     void Start(){
         animator = GetComponent<Animator>();
         myRigidbody = GetComponent<Rigidbody2D>();
+        try{
+            reference = GameObject.FindWithTag("Reference");
+        }
+        catch(SystemException e){
+            Debug.Log(e);
+        }
     }
 
     // Update is called once per frame
@@ -22,9 +30,9 @@ public class PlayerMovement : MonoBehaviour{
         change.y = SimpleInput.GetAxis("Vertical");
         UpdateAnimationAndMove();
 
-
         //Debug.Log(change);
     }
+    
     void UpdateAnimationAndMove(){
         if (change != Vector3.zero){
             MoveCharacter();
