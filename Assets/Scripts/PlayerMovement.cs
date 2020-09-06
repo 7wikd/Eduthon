@@ -5,22 +5,24 @@ using System;
 
 public class PlayerMovement : MonoBehaviour{
     public float speed;
-    public GameObject stack;
+    //public GameObject stack;
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
     public GameObject reference;
+    public VectorValue startingPosition;
     
     // Start is called before the first frame update
     void Start(){
         animator = GetComponent<Animator>();
         myRigidbody = GetComponent<Rigidbody2D>();
-        try{
+        /*try{
             reference = GameObject.FindWithTag("Reference");
         }
         catch(SystemException e){
             Debug.Log(e);
-        }
+        }*/
+        transform.position = startingPosition.initialValue;
     }
 
     // Update is called once per frame
