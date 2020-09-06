@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour{
     private Vector3 change;
     private Animator animator;
     public GameObject reference;
-    public VectorValue startingPosition;
+    // public VectorValue startingPosition;
     
     // Start is called before the first frame update
     void Start(){
@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour{
         catch(SystemException e){
             Debug.Log(e);
         }*/
-        transform.position = startingPosition.initialValue;
+        // transform.position = startingPosition.initialValue;
     }
 
     // Update is called once per frame
