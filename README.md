@@ -6,10 +6,10 @@ Stack'emUp
 https://www.youtube.com/watch?v=ZGBPkqn7gv0&feature=youtu.be&ab_channel=TanmayJain
 
 ### How it works
-The user navigates through a bunch of rooms and traverses through levels to get to the end.
-Each room has a certain type of logical puzzle which needs to be solved in order to proceed further.
-The puzzles correspond to various concepts related to Programming and Logic, such as Boolean Algebra and Data Structures.
-(/Images/EXOR Gate.jpg)
+- The user navigates through a bunch of rooms and traverses through levels to get to the end.
+- Each room has a certain type of logical puzzle which needs to be solved in order to proceed further.
+- The puzzles correspond to various concepts related to Programming and Logic, such as Boolean Algebra and Data Structures.
+![EXOR GATE](./Images/EXOR Gate.jpg)
 ### The Details
 - Our project exhibits a fun and interactive way of teaching kids of age 4 and above, about the fundamentals of programming and the digital world, in the form of a 2D game. 
 - With the advent of the New Education Policy,  there is a special focus on the holistic development of students and making learning enjoyable, and engaging as a whole.
