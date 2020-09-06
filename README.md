@@ -1,7 +1,7 @@
 # Eduthon20
 
 ### The product
-Koop
+Stack'emUp
 
 ### The Details
 - Our project exhibits a fun and interactive way of teaching kids of age 4 and above, about the fundamentals of programming and the digital world, in the form of a 2D game. 
