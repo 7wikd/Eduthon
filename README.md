@@ -2,6 +2,10 @@
 
 ### The product
 Stack'emUp
+### Tutorials
+https://www.youtube.com/watch?v=ZGBPkqn7gv0&feature=youtu.be&ab_channel=TanmayJain
+
+### How it works
 
 ### The Details
 - Our project exhibits a fun and interactive way of teaching kids of age 4 and above, about the fundamentals of programming and the digital world, in the form of a 2D game. 
@@ -21,5 +25,4 @@ Stack'emUp
 - We fixed that by adding separate tilemaps for ground and collision layers for each room to make the levels more modular and easy to edit. 
 - Our biggest hurdle was implementing a data structure as a level. 
 
-### YouTube Link: 
-https://www.youtube.com/watch?v=ZGBPkqn7gv0&feature=youtu.be&ab_channel=TanmayJain
+
