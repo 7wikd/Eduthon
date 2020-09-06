@@ -9,13 +9,14 @@ public class Sign : MonoBehaviour{
     public bool playerInRange;
     public Signal contextOn;
     public Signal contextOff;
+    public Button btn;
     void Start(){
-        
+        btn.onClick.AddListener(Ui);
     }
 
     // Update is called once per frame
-    void Update(){
-        if (Input.GetKeyDown(KeyCode.Space)&& playerInRange){
+    void Ui(){
+        if (playerInRange){
             if (dialogBox.activeInHierarchy){
                 dialogBox.SetActive(false);
             }

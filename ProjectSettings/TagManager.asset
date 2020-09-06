@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Trigger
   - Reference
+  - 1
+  - 2
+  - 3
+  - 4
   layers:
   - Default
   - TransparentFX

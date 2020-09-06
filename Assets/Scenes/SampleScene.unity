@@ -585,6 +585,7 @@ MonoBehaviour:
   playerInRange: 0
   contextOn: {fileID: 11400000, guid: 4b1e26aa5a73f9f799a1f4c1fa57ce8a, type: 2}
   contextOff: {fileID: 11400000, guid: 313fea708736d5383b35dd73ec4390e3, type: 2}
+  btn: {fileID: 0}
 --- !u!1 &199330913 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3179758667619785034, guid: 083a3eba0d84ab82494d28e062786e56, type: 3}
@@ -32626,6 +32627,7 @@ MonoBehaviour:
   playerInRange: 0
   contextOn: {fileID: 11400000, guid: 4b1e26aa5a73f9f799a1f4c1fa57ce8a, type: 2}
   contextOff: {fileID: 11400000, guid: 313fea708736d5383b35dd73ec4390e3, type: 2}
+  btn: {fileID: 0}
 --- !u!1 &517734201
 GameObject:
   m_ObjectHideFlags: 0
@@ -36083,6 +36085,7 @@ MonoBehaviour:
   playerInRange: 0
   contextOn: {fileID: 11400000, guid: 4b1e26aa5a73f9f799a1f4c1fa57ce8a, type: 2}
   contextOff: {fileID: 11400000, guid: 313fea708736d5383b35dd73ec4390e3, type: 2}
+  btn: {fileID: 0}
 --- !u!1 &1565141614
 GameObject:
   m_ObjectHideFlags: 0
@@ -36346,6 +36349,7 @@ MonoBehaviour:
   playerInRange: 0
   contextOn: {fileID: 11400000, guid: 4b1e26aa5a73f9f799a1f4c1fa57ce8a, type: 2}
   contextOff: {fileID: 11400000, guid: 313fea708736d5383b35dd73ec4390e3, type: 2}
+  btn: {fileID: 0}
 --- !u!1001 &1609880647
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36751,6 +36755,7 @@ MonoBehaviour:
   playerInRange: 0
   contextOn: {fileID: 11400000, guid: 4b1e26aa5a73f9f799a1f4c1fa57ce8a, type: 2}
   contextOff: {fileID: 11400000, guid: 313fea708736d5383b35dd73ec4390e3, type: 2}
+  btn: {fileID: 0}
 --- !u!4 &1806431121 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 567938891007711874, guid: a2eebdae28f112e44821264a276d7dd6, type: 3}
@@ -46333,8 +46338,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1415759955726597307, guid: 01790c014fb73dd8aa1f726b71abb342, type: 3}
       propertyPath: speed
-      value: 15
+      value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 1415759955726597307, guid: 01790c014fb73dd8aa1f726b71abb342, type: 3}
+      propertyPath: startingPosition
+      value: 
+      objectReference: {fileID: 11400000, guid: 7d055899a3dd3ce4e9e3b5432dc0dd45, type: 2}
     - target: {fileID: 1415759955726597311, guid: 01790c014fb73dd8aa1f726b71abb342, type: 3}
       propertyPath: m_Name
       value: Player
