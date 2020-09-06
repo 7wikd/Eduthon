@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class zone_stop_3 : MonoBehaviour
 {
-    public Vector2 cameraChange;
+    // public Vector2 cameraChange;
     public Vector3 playerChange;
     private CameraMovement cam;
     public bool needText;
@@ -44,8 +44,8 @@ public class zone_stop_3 : MonoBehaviour
 
         if(other.CompareTag("Player")){
  		
-            	cam.minPosition += cameraChange;
-            	cam.maxPosition += cameraChange;
+            	// cam.minPosition += cameraChange;
+            	// cam.maxPosition += cameraChange;
             	other.transform.position += playerChange;
             	if(needText){
                 StartCoroutine(placeNameCo());

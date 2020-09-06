@@ -5720,7 +5720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 957b10f341762d5c5b5ab3360b805241, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 15
   stack: {fileID: 4816341340111034997, guid: 31988966259d1ac4489559ae23f03682, type: 3}
   reference: {fileID: 0}
 --- !u!61 &874737393
