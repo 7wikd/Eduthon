@@ -20,3 +20,6 @@ Stack'emUp
 - Other than that figuring out the logic behind the Boolean levels was a bit tricky but doable. One bug we faced was adding tiles to different tilemaps to differentiate collisions and ground to the player, as the player could walk on the collisions as well as on the ground. 
 - We fixed that by adding separate tilemaps for ground and collision layers for each room to make the levels more modular and easy to edit. 
 - Our biggest hurdle was implementing a data structure as a level. 
+
+### YouTube Link: 
+https://www.youtube.com/watch?v=ZGBPkqn7gv0&feature=youtu.be&ab_channel=TanmayJain
